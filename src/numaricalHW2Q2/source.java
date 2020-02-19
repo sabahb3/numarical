@@ -3,7 +3,6 @@ import java.lang.Math;
 
 public class source {
 	public static void main(String[] args) {
-		System.out.println("Hello");
 		int n=6;
 		double a0,a1,a,b,r,Sy_x,ST,SR;
 		double Xold[]= {0,1,2,3,4,5};
