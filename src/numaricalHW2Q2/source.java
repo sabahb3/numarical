@@ -2,8 +2,8 @@ package numaricalHW2Q2;
 import java.lang.Math;
 
 public class source {
-// My name is No my son Is no *.*
 	public static void main(String[] args) {
+		System.out.println("Hello");
 		int n=6;
 		double a0,a1,a,b,r,Sy_x,ST,SR;
 		double Xold[]= {0,1,2,3,4,5};
